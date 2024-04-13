@@ -59,6 +59,7 @@ h2{
     border: none;
     color: white;
     margin-bottom: 10px;
+    cursor: pointer;
 }
 .minus{
     display:none;
@@ -70,6 +71,7 @@ h2{
     color: white;
     border: none;
     margin-bottom: 10px;
+    cursor: pointer;
 }
 #plus{
     margin-left: 51%;
