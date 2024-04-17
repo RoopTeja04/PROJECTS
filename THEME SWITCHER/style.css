@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    background: none;
+}
+h1{
+    margin: 25px 0px 0px 5%;
+    font-size: 40px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background: none;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    margin: 40px 0px 0px 22%;
+    background: none;
+}
+h2{
+    margin-right: 10%;
+    font-family: "Raleway", sans-serif;
+    background: none;
+    cursor: pointer;
+}
+#author{
+    margin: 10% 0px 0px 4%; 
+    display: flex;
+    flex-direction: column;
+    background: none;
+}
+#name{
+    font-size: 45px;
+}
+p{
+    margin: 1.5% 0px 0px 5%; 
+    font-size: 22px;
+    font-family: "Roboto Slab", serif;
+    background: none;
+}
+#moon{
+    height: 5vh;
+    background: none;
+}
+#sun{
+    height: 5vh;
+    display: none;
+    margin-right: 20px;
+    background: none;
+}
+#btn1{
+    background: none;
+    display: flex;
+    border:none;
+    margin-left: 60%;
+    background: none;
+    cursor: pointer;
+}
+#btn2{
+    background: none;
+    display: flex;
+    border:none;
+    background: none;
+    cursor: pointer;
+}
